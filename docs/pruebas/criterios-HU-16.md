@@ -1,0 +1,3 @@
+* CA-18: Dado que un usuario activo tiene cuenta, cuando ingresa su correo y contraseña correctos, entonces el sistema lo lleva a la pantalla de su rol.
+* CA-19: Dado que un usuario ingresa una contraseña incorrecta, cuando confirma, entonces el sistema no lo deja entrar y muestra un mensaje de error.
+* CA-20: Dado que un usuario inició sesión, cuando pasan 15 minutos sin actividad, entonces el sistema cierra la sesión y le pide iniciar sesión de nuevo.
